@@ -1,1 +1,1 @@
-{"manufacturer": "apple", "domains": ["ff02::16", "ff02::16", "ff02::16", "ff02::16", "ff02::2", "ff02::2", "ff02::2", "ff02::2"], "id": "6577f71e-ceff-49d2-9533-c9eac6582555", "name": "iphonex"}
+{"manufacturer": "apple", "name": "iphone x", "id": "6577f71e-ceff-49d2-9533-c9eac6582555", "domains": ["ff02::16", "ff02::16", "ff02::16", "ff02::16", "ff02::2", "ff02::2", "ff02::2", "ff02::2"]}
